@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://raw.githubusercontent.com/ichirin2501/ichirin2501/master/images/lala.jpg)
+
 <!--
 **ichirin2501/ichirin2501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
